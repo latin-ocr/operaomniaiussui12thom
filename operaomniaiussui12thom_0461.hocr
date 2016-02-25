@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaiussui12thom_0461.png"; bbox 0 0 2878 4088; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 979 1471 1879 1671">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 967 1471 1879 1671">
+     <span class='ocr_line' id='line_1_1' title="bbox 979 1471 1879 1671; baseline -0.005 -42.066"><span class='ocrx_word' id='word_1_1' title='bbox 979 1471 1879 1671; x_wconf 67' lang='grc' dir='ltr'><strong>ευΡΡιΕΜΕΝΤυΜ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1123 1672 1732 1759">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1123 1672 1732 1759">
+     <span class='ocr_line' id='line_1_2' title="bbox 1123 1672 1732 1759; baseline -0.002 0"><span class='ocrx_word' id='word_1_2' title='bbox 1123 1706 1437 1759; x_wconf 77' lang='lat' dir='ltr'>TERTIAE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1466 1672 1732 1759; x_wconf 78' lang='lat' dir='ltr'>PARTIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 492 1836 2256 1977">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 492 1836 2256 1977">
+     <span class='ocr_line' id='line_1_3' title="bbox 492 1836 2256 1977; baseline -0.005 -26.478"><span class='ocrx_word' id='word_1_4' title='bbox 492 1836 1245 1951; x_wconf 85' lang='lat' dir='ltr'>SUMMAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1291 1844 2256 1977; x_wconf 85' lang='lat' dir='ltr'><strong>THEOLOGIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 769 2014 2091 2141">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 769 2014 2091 2141">
+     <span class='ocr_line' id='line_1_4' title="bbox 769 2014 2091 2141; baseline -0.004 -41"><span class='ocrx_word' id='word_1_6' title='bbox 769 2033 1096 2100; x_wconf 85' lang='lat' dir='ltr'>SANCTI</span> <span class='ocrx_word' id='word_1_7' title='bbox 1146 2026 1537 2141; x_wconf 60' lang='grc' dir='ltr'><strong>ΤΙ-ΙῼΜΑΕ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1563 2014 2091 2117; x_wconf 12' lang='lat' dir='ltr'><strong>VAQUINATIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1297 2207 1565 2225">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1297 2207 1565 2225">
+     <span class='ocr_line' id='line_1_5' title="bbox 1297 2207 1565 2225; baseline 0 1863"><span class='ocrx_word' id='word_1_9' title='bbox 1297 2207 1565 2225; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 108 596 4088">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 108 596 4088">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 108 596 4088; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 108 596 4088; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
